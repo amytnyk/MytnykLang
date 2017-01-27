@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\mytnyklang\main.cpp(28): warning C4101: 'age': unreferenced local variable
+c:\mytnyklang\main.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\mytnyklang\main.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\mytnyklang\main.cpp(21): warning C4715: 'GetLastEl': not all control paths return a value
+  MytnykLang.vcxproj -> C:\MytnykLang\Debug\MytnykLang.exe
+  MytnykLang.vcxproj -> C:\MytnykLang\Debug\MytnykLang.pdb (Partial PDB)
